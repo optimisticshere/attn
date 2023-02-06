@@ -1,0 +1,989 @@
+
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Установка камер видеонаблюдения в Минске и РБ</title>
+<meta name="description" content="Наша компания оказывает услуги по установке камер видеонаблюдения в Минске и всей РБ. Видеонаблюдения для дома, магазина, офиса и других объектов.">
+<meta name="keywords" content="Установка камер видеонаблюдения в Минске.
+Установка видеонаблюдения в Минске.
+">
+<meta name="author" content="Imperial - установка видеонаблюдения">
+<meta name="robots" content="INDEX, FOLLOW">
+<meta name="revisit-after" content="31 Days">
+<link href="favicon.ico" rel="shortcut icon">
+<link href="index.css" rel="stylesheet">
+<script src="jquery-1.9.1.min.js"></script>
+<script src="wb.carousel.min.js"></script>
+<script src="fancybox/jquery.easing-1.3.pack.js"></script>
+<link rel="stylesheet" href="fancybox/jquery.fancybox-1.3.0.css">
+<script src="fancybox/jquery.fancybox-1.3.0.pack.js"></script>
+<script src="fancybox/jquery.mousewheel-3.0.2.pack.js"></script>
+<script src="wwb9.min.js"></script>
+<script>
+$(document).ready(function()
+{
+   var indexCarousel1Opts =
+   {
+      delay: 4000,
+      duration: 500,
+      easing: 'linear',
+      mode: 'forward-circular',
+      direction: '',
+      pagination: true,
+      pagination_img_default: 'images/page_default.png',
+      pagination_img_active: 'images/page_active.png',
+      start: 0,
+      width: 640
+   };
+   $("#indexCarousel1").carousel(indexCarousel1Opts);
+   var indexCarousel3Opts =
+   {
+      delay: 6000,
+      duration: 500,
+      easing: 'linear',
+      mode: 'forward',
+      direction: '',
+      pagination: true,
+      pagination_img_default: 'images/page_default.png',
+      pagination_img_active: 'images/page_active.png',
+      start: 0,
+      width: 940
+   };
+   $("#indexCarousel3").carousel(indexCarousel3Opts);
+   $("a[data-rel='indexPhotoGallery5']").attr('rel', 'indexPhotoGallery5');
+   $("a[rel^='indexPhotoGallery5']").fancybox({});
+});
+</script>
+<meta name="yandex-verification" content="7a65bb3e0ed5768b"/>
+<meta name="google-site-verification" content="nO2pB4R9M1dQXNyz6rXnqMCgmEALDXttD8Vu7tJZmSM"/>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-66438344-1', 'auto');
+  ga('send', 'pageview');
+</script>
+<!-- Yandex.Metrika counter -->
+<script>
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+   ym(28506341, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+      <noscript><div><img src="https://mc.yandex.ru/watch/28506341" style="position:absolute; left:-9999px;" alt=""/></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<link href="https://fonts.googleapis.com/css?family=PT+Sans:400,700,700italic&subset=latin,cyrillic" rel="stylesheet">
+</head>
+<body>
+   <div id="container">
+      <div id="wb_indexCarousel1" style="position:absolute;left:160px;top:4310px;width:634px;height:394px;z-index:218;overflow:hidden">
+         <div id="indexCarousel1" style="position:absolute">
+            <div class="frame">
+               <div id="wb_indexImage36" style="position:absolute;left:47px;top:17px;width:550px;height:294px;z-index:20;">
+                  <img src="images/sotrudniki_rabotayut_1_light.jpg" id="indexImage36" alt="" style="width:550px;height:294px;"></div>
+            </div>
+            <div class="frame">
+               <div id="wb_indexImage37" style="position:absolute;left:687px;top:17px;width:550px;height:334px;z-index:21;">
+                  <img src="images/klienti_dovolni_light.jpg" id="indexImage37" alt="" style="width:550px;height:334px;"></div>
+            </div>
+            <div class="frame">
+               <div id="wb_indexImage38" style="position:absolute;left:1327px;top:17px;width:550px;height:330px;z-index:22;">
+                  <img src="images/kvartira_norm_light.jpg" id="indexImage38" alt="" style="width:550px;height:330px;"></div>
+            </div>
+            <div class="frame">
+               <div id="wb_indexImage39" style="position:absolute;left:1967px;top:17px;width:550px;height:335px;z-index:23;">
+                  <img src="images/deti_prismotr_light.jpg" id="indexImage39" alt="" style="width:550px;height:335px;"></div>
+            </div>
+            <div class="frame">
+               <div id="wb_indexImage40" style="position:absolute;left:2607px;top:17px;width:550px;height:315px;z-index:24;">
+                  <img src="images/dacha_norm_light.jpg" id="indexImage40" alt="" style="width:550px;height:315px;"></div>
+            </div>
+            <div class="frame">
+               <div id="wb_indexImage41" style="position:absolute;left:3247px;top:17px;width:550px;height:304px;z-index:25;">
+                  <img src="images/Control_1_light.jpg" id="indexImage41" alt="" style="width:550px;height:304px;"></div>
+            </div>
+         </div>
+      </div>
+      <div id="wb_indexLine2" style="position:absolute;left:856px;top:756px;width:60px;height:0px;z-index:219;">
+         <img src="images/img0003.png" id="indexLine2" alt="">
+      </div>
+      <div id="wb_indexLine3" style="position:absolute;left:36px;top:756px;width:60px;height:0px;z-index:220;">
+         <img src="images/img0004.png" id="indexLine3" alt="">
+      </div>
+      <div id="wb_indexLine4" style="position:absolute;left:66px;top:766px;width:30px;height:0px;z-index:221;">
+         <img src="images/img0005.png" id="indexLine4" alt="">
+      </div>
+      <div id="wb_indexLine5" style="position:absolute;left:856px;top:766px;width:30px;height:0px;z-index:222;">
+         <img src="images/img0006.png" id="indexLine5" alt="">
+      </div>
+      <div id="wb_indexShape2" style="position:absolute;left:50px;top:700px;width:200px;height:40px;visibility:hidden;z-index:223;">
+         <a href="javascript:displaylightbox('./Zakaz_zvonka_po_domu.php',{width:710,height:610})" target="_self"><img src="images/img0007.png" id="indexShape2" alt="" style="border-width:0;width:200px;height:40px;"></a>
+      </div>
+<!-- timer -->
+      <div id="indexHtml1" style="position:absolute;left:510px;top:2410px;width:370px;height:100px;z-index:224">
+<script src="http://megatimer.ru/s/e259fda6892c325ed4819e808ee37467.js"></script></div>
+      <div id="wb_indexText37" style="position:absolute;left:280px;top:2805px;width:380px;height:42px;text-align:center;z-index:225;">
+         <div style="position:absolute;left:0px;top:0px;width:380px;height:42px;"><h3>Виды видеонаблюдения</h3></div>
+      </div>
+      <div id="wb_indexLine13" style="position:absolute;left:666px;top:2816px;width:60px;height:0px;z-index:226;">
+         <img src="images/img0021.png" id="indexLine13" alt="">
+      </div>
+      <div id="wb_indexLine14" style="position:absolute;left:206px;top:2816px;width:60px;height:0px;z-index:227;">
+         <img src="images/img0019.png" id="indexLine14" alt="">
+      </div>
+      <div id="wb_indexLine15" style="position:absolute;left:236px;top:2826px;width:30px;height:0px;z-index:228;">
+         <img src="images/img0020.png" id="indexLine15" alt="">
+      </div>
+      <div id="wb_indexLine16" style="position:absolute;left:666px;top:2826px;width:30px;height:0px;z-index:229;">
+         <img src="images/img0022.png" id="indexLine16" alt="">
+      </div>
+      <div id="wb_indexText41" style="position:absolute;left:350px;top:4265px;width:260px;height:42px;text-align:center;z-index:230;">
+         <span class="PT_Sans-24-b-n">Есть решение!</span>
+      </div>
+      <div id="wb_indexShape18" style="position:absolute;left:315px;top:4720px;width:330px;height:40px;z-index:231;">
+         <a href="javascript:displaylightbox('./Zakaz_zvonka_prichini.php',{width:360,height:420,scrolling:'no',overlayOpacity:0.9})" target="_self"><img class="hover" src="images/img0066_hover.png" alt="" style="border-width:0;width:330px;height:40px;"><span><img src="images/img0066.png" id="indexShape18" alt="" style="border-width:0;width:330px;height:40px;"></span></a>
+      </div>
+      <div id="wb_indexText61" style="position:absolute;left:10px;top:8060px;width:590px;height:69px;text-align:center;z-index:232;">
+         <span class="PT_Sans-40-y-n">ОСТАЛИСЬ ВОПРОСЫ?</span>
+      </div>
+      <div id="wb_indexText78" style="position:absolute;left:610px;top:8080px;width:312px;height:31px;text-align:center;z-index:233;">
+         <span class="PT_Sans-18-bl-n__"><a href="javascript:displaylightbox('./Zakaz_zvonka_manager.php',{width:360,height:420,scrolling:'no',overlayOpacity:0.9})" target="_self">ЗАДАЙТЕ ИХ МЕНЕДЖЕРУ</a></span>
+      </div>
+      <div id="wb_indexShape3" style="position:absolute;left:270px;top:700px;width:200px;height:40px;visibility:hidden;z-index:234;">
+         <a href="javascript:displaylightbox('./Zakaz_zvonka_po_kvartire.php',{width:370,height:430})" target="_self"><img src="images/img0010.png" id="indexShape3" alt="" style="border-width:0;width:200px;height:40px;"></a>
+      </div>
+      <div id="wb_indexShape4" style="position:absolute;left:670px;top:700px;width:200px;height:40px;visibility:hidden;z-index:235;">
+         <a href="javascript:displaylightbox('./Success_Z_z_po_kvartire.php',{width:370,height:430})" target="_self"><img src="images/img0011.png" id="indexShape4" alt="" style="border-width:0;width:200px;height:40px;"></a>
+      </div>
+      <div id="wb_indexShape5" style="position:absolute;left:60px;top:1390px;width:200px;height:40px;visibility:hidden;z-index:236;">
+         <a href="javascript:displaylightbox('./Zakaz_zvonka_po_magazinu.php',{width:710,height:610})" target="_self"><img src="images/img0012.png" id="indexShape5" alt="" style="border-width:0;width:200px;height:40px;"></a>
+      </div>
+      <div id="wb_indexShape6" style="position:absolute;left:390px;top:1380px;width:200px;height:40px;visibility:hidden;z-index:237;">
+         <a href="javascript:displaylightbox('./Success_Z_z_po_zhilomu_domu.php',{width:370,height:430})" target="_self"><img src="images/img0061.png" id="indexShape6" alt="" style="border-width:0;width:200px;height:40px;"></a>
+      </div>
+      <div id="wb_indexShape7" style="position:absolute;left:700px;top:1390px;width:200px;height:40px;visibility:hidden;z-index:238;">
+         <a href="javascript:displaylightbox('./Zakaz_zvonka_po_proizvodstvu.php',{width:370,height:430})" target="_self"><img src="images/img0067.png" id="indexShape7" alt="" style="border-width:0;width:200px;height:40px;"></a>
+      </div>
+      <div id="indexRollOver1" style="position:absolute;overflow:hidden;left:10px;top:810px;width:300px;height:218px;z-index:239">
+         <a href="javascript:displaylightbox('./Zakaz_zvonka_po_domu.php',{width:700,height:582,scrolling:'no',overlayOpacity:0.9})" target="_self">
+            <img class="hover" alt="" src="images/DOM_4_light.png" style="left:0;top:0;width:300px;height:218px;">
+            <span><img alt="" src="images/DOM_3_3_light.png" style="left:0;top:0;width:300px;height:218px"></span>
+         </a>
+      </div>
+      <div id="indexRollOver2" style="position:absolute;overflow:hidden;left:330px;top:810px;width:300px;height:218px;z-index:240">
+         <a href="javascript:displaylightbox('./Zakaz_zvonka_po_office.php',{width:700,height:582,scrolling:'no',overlayOpacity:0.9})" target="_self">
+            <img class="hover" alt="" src="images/OFFICE_2_2_light.png" style="left:0;top:0;width:300px;height:218px;">
+            <span><img alt="" src="images/OFFICE_3_2_light.png" style="left:0;top:0;width:300px;height:218px"></span>
+         </a>
+      </div>
+      <div id="indexRollOver3" style="position:absolute;overflow:hidden;left:650px;top:810px;width:300px;height:218px;z-index:241">
+         <a href="javascript:displaylightbox('./Zakaz_zvonka_po_kvartire.php',{width:700,height:582,scrolling:'no',overlayOpacity:0.9})" target="_self">
+            <img class="hover" alt="" src="images/kvartira_1_1_light.png" style="left:0;top:0;width:300px;height:218px;">
+            <span><img alt="" src="images/kvartira_3_2_light.png" style="left:0;top:0;width:300px;height:218px"></span>
+         </a>
+      </div>
+      <div id="indexRollOver4" style="position:absolute;overflow:hidden;left:10px;top:1060px;width:300px;height:218px;z-index:242">
+         <a href="javascript:displaylightbox('./Zakaz_zvonka_po_magazinu.php',{width:700,height:582,scrolling:'no',overlayOpacity:0.9})" target="_self">
+            <img class="hover" alt="" src="images/magazin_4_light.png" style="left:0;top:0;width:300px;height:218px;">
+            <span><img alt="" src="images/magazin_3_2_light.png" style="left:0;top:0;width:300px;height:218px"></span>
+         </a>
+      </div>
+      <div id="indexRollOver5" style="position:absolute;overflow:hidden;left:650px;top:1060px;width:300px;height:218px;z-index:243">
+         <a href="javascript:displaylightbox('./Zakaz_zvonka_po_proizvodstvu.php',{width:700,height:582,scrolling:'no',overlayOpacity:0.9})" target="_self">
+            <img class="hover" alt="" src="images/proizvodstvo_4_light.png" style="left:0;top:0;width:300px;height:218px;">
+            <span><img alt="" src="images/proizvodstvo_3_3_light.png" style="left:0;top:0;width:300px;height:218px"></span>
+         </a>
+      </div>
+      <div id="indexRollOver6" style="position:absolute;overflow:hidden;left:330px;top:1060px;width:300px;height:218px;z-index:244">
+         <a href="javascript:displaylightbox('./Zakaz_zvonka_po_zhilomu_domu.php',{width:700,height:582,scrolling:'no',overlayOpacity:0.9})" target="_self">
+            <img class="hover" alt="" src="images/Ghiloy_dom_2_1_light.png" style="left:0;top:0;width:300px;height:218px;">
+            <span><img alt="" src="images/Ghiloy_dom_3_1_light.png" style="left:0;top:0;width:300px;height:218px"></span>
+         </a>
+      </div>
+      <div id="wb_indexText8" style="position:absolute;left:105px;top:725px;width:750px;height:84px;text-align:center;z-index:245;">
+         <div style="position:absolute;left:0px;top:0px;width:750px;height:42px;"><h3>Куда мы можем установить камеры </h3></div>
+         <div style="position:absolute;left:0px;top:42px;width:750px;height:42px;"><h3>видеонаблюдения?</h3></div>
+      </div>
+      <div id="wb_indexLine1" style="position:absolute;left:736px;top:1976px;width:60px;height:0px;z-index:246;">
+         <img src="images/img0002.png" id="indexLine1" alt="">
+      </div>
+      <div id="wb_indexLine24" style="position:absolute;left:166px;top:1976px;width:60px;height:0px;z-index:247;">
+         <img src="images/img0047.png" id="indexLine24" alt="">
+      </div>
+      <div id="wb_indexLine25" style="position:absolute;left:736px;top:1996px;width:30px;height:0px;z-index:248;">
+         <img src="images/img0049.png" id="indexLine25" alt="">
+      </div>
+      <div id="wb_indexLine26" style="position:absolute;left:196px;top:1996px;width:30px;height:0px;z-index:249;">
+         <img src="images/img0050.png" id="indexLine26" alt="">
+      </div>
+      <div id="wb_indexImage6" style="position:absolute;left:440px;top:2050px;width:500px;height:293px;z-index:250;">
+         <img src="images/xp-mobile-hi-res_500_1_light_60.jpg" id="indexImage6" alt="" style="width:500px;height:293px;">
+      </div>
+      <div id="indexLayer7" style="position:absolute;text-align:left;left:0px;top:2040px;width:430px;height:460px;z-index:251;" title="">
+         <div id="wb_indexText23" style="position:absolute;left:40px;top:235px;width:350px;height:124px;text-align:center;z-index:151;">
+            <div style="position:absolute;left:0px;top:0px;width:350px;height:31px;"><span class="PT_Sans-18-w-n">Закажите установку системы </span></div>
+            <div style="position:absolute;left:0px;top:31px;width:350px;height:31px;"><span class="PT_Sans-18-w-n">видеонаблюдения до конца дня </span></div>
+            <div style="position:absolute;left:0px;top:62px;width:350px;height:31px;"><span class="PT_Sans-18-w-n">и получите настройку интернет-</span></div>
+            <div style="position:absolute;left:0px;top:93px;width:350px;height:31px;"><span class="PT_Sans-18-w-n">доступа в </span><span class="PT_Sans-18-w-n_">ПОДАРОК</span></div>
+         </div>
+         <div id="wb_indexShape21" style="position:absolute;left:70px;top:360px;width:280px;height:40px;z-index:152;">
+            <a href="javascript:displaylightbox('./Zakaz_zvonka_po_akcii_up.php',{width:360,height:420,scrolling:'no',overlayOpacity:0.9})" target="_self"><img class="hover" src="images/img0051_hover.png" alt="" style="border-width:0;width:280px;height:40px;"><span><img src="images/img0051.png" id="indexShape21" alt="" style="border-width:0;width:280px;height:40px;"></span></a></div>
+         <div id="wb_indexText13" style="position:absolute;left:60px;top:25px;width:320px;height:201px;text-align:center;z-index:153;">
+            <div style="position:absolute;left:0px;top:0px;width:320px;height:69px;"><span class="PT_Sans-40-w-n">Удаленное</span><span style="color:#ffffff;font-family:'pf square sans pro medium';font-size:43px;"> </span></div>
+            <div style="position:absolute;left:0px;top:69px;width:320px;height:48px;"><span class="PT_Sans-28-w-n">видеонаблюдение</span><span style="color:#ffffff;font-family:'pf square sans pro medium';font-size:37px;"> </span></div>
+            <div style="position:absolute;left:0px;top:117px;width:320px;height:42px;"><span class="PT_Sans-24-w-n">из любой точки мира!</span></div>
+            <div style="position:absolute;left:0px;top:159px;width:320px;height:42px;"><span class="PT_Sans-24-w-n">ИНТЕРЕСНО?</span></div>
+         </div>
+      </div>
+      <div id="wb_indexText14" style="position:absolute;left:510px;top:2350px;width:360px;height:62px;text-align:center;z-index:252;">
+         <div style="position:absolute;left:0px;top:0px;width:360px;height:31px;"><span class="PT_Sans-18-b-n">ПРЕДЛОЖЕНИЕ ОГРАНИЧЕНО!</span></div>
+         <div style="position:absolute;left:0px;top:31px;width:360px;height:31px;"><span class="PT_Sans-18-b-n">ДО КОНЦА АКЦИИ ОСТАЛОСЬ:</span></div>
+      </div>
+      <div id="indexRollOver7" style="position:absolute;overflow:hidden;left:668px;top:2860px;width:250px;height:250px;z-index:253">
+         <a href="javascript:displaylightbox('./Zakaz_zvonka_po_analogu.php',{width:700,height:600,scrolling:'no',overlayOpacity:0.9})" target="_self">
+            <img class="hover" alt="" src="images/ANALOG_3_light.png" style="left:0;top:0;width:250px;height:250px;">
+            <span><img alt="" src="images/ANALOG_light.png" style="left:0;top:0;width:250px;height:250px"></span>
+         </a>
+      </div>
+      <div id="indexRollOver8" style="position:absolute;overflow:hidden;left:32px;top:2860px;width:250px;height:250px;z-index:254">
+         <a href="javascript:displaylightbox('./Zakaz_zvonka_po_IP.php',{width:700,height:582,scrolling:'no',overlayOpacity:0.9})" target="_self">
+            <img class="hover" alt="" src="images/Ip_3_light.png" style="left:0;top:0;width:250px;height:250px;">
+            <span><img alt="" src="images/Ip_light.png" style="left:0;top:0;width:250px;height:250px"></span>
+         </a>
+      </div>
+      <div id="indexRollOver9" style="position:absolute;overflow:hidden;left:352px;top:2860px;width:250px;height:250px;z-index:255">
+         <a href="javascript:displaylightbox('./Zakaz_zvonka_po_HD_TVI.php',{width:700,height:582,scrolling:'no',overlayOpacity:0.9})" target="_self">
+            <img class="hover" alt="" src="images/HD-TVI_3_light.png" style="left:0;top:0;width:250px;height:250px;">
+            <span><img alt="" src="images/HD-TVI_light.png" style="left:0;top:0;width:250px;height:250px"></span>
+         </a>
+      </div>
+<!-- timer -->
+      <div id="indexHtml4" style="position:absolute;left:100px;top:6770px;width:370px;height:100px;z-index:256">
+<script src="http://megatimer.ru/s/e259fda6892c325ed4819e808ee37467.js"></script></div>
+      <div id="wb_indexImage13" style="position:absolute;left:190px;top:6430px;width:208px;height:274px;z-index:257;">
+         <img src="images/telefon_2_light.png" id="indexImage13" alt="" style="width:208px;height:274px;">
+      </div>
+      <div id="wb_indexText36" style="position:absolute;left:100px;top:6710px;width:360px;height:62px;text-align:center;z-index:258;">
+         <div style="position:absolute;left:0px;top:0px;width:360px;height:31px;"><span class="PT_Sans-18-b-n">ПРЕДЛОЖЕНИЕ ОГРАНИЧЕНО!</span></div>
+         <div style="position:absolute;left:0px;top:31px;width:360px;height:31px;"><span class="PT_Sans-18-b-n">ДО КОНЦА АКЦИИ ОСТАЛОСЬ:</span></div>
+      </div>
+      <div id="indexLayer16" style="position:absolute;text-align:left;left:500px;top:6410px;width:430px;height:460px;z-index:259;" title="">
+         <div id="wb_indexText38" style="position:absolute;left:50px;top:25px;width:325px;height:201px;text-align:center;z-index:165;">
+            <div style="position:absolute;left:0px;top:0px;width:325px;height:69px;"><span class="PT_Sans-40-w-n">Удаленное</span><span style="color:#ffffff;font-family:'pf square sans pro medium';font-size:43px;"> </span></div>
+            <div style="position:absolute;left:0px;top:69px;width:325px;height:48px;"><span class="PT_Sans-28-w-n">видеонаблюдение</span><span style="color:#ffffff;font-family:'pf square sans pro medium';font-size:37px;"> </span></div>
+            <div style="position:absolute;left:0px;top:117px;width:325px;height:42px;"><span class="PT_Sans-24-w-n">из любой точки мира!</span></div>
+            <div style="position:absolute;left:0px;top:159px;width:325px;height:42px;"><span class="PT_Sans-24-w-n">ИНТЕРЕСНО?</span></div>
+         </div>
+         <div id="wb_indexText39" style="position:absolute;left:40px;top:220px;width:350px;height:124px;text-align:center;z-index:166;">
+            <div style="position:absolute;left:0px;top:0px;width:350px;height:31px;"><span class="PT_Sans-18-w-n">Закажите установку системы </span></div>
+            <div style="position:absolute;left:0px;top:31px;width:350px;height:31px;"><span class="PT_Sans-18-w-n">видеонаблюдения до конца дня </span></div>
+            <div style="position:absolute;left:0px;top:62px;width:350px;height:31px;"><span class="PT_Sans-18-w-n">и получите настройку интернет-</span></div>
+            <div style="position:absolute;left:0px;top:93px;width:350px;height:31px;"><span class="PT_Sans-18-w-n">доступа в </span><span class="PT_Sans-18-w-n_">ПОДАРОК</span></div>
+         </div>
+         <div id="wb_indexShape22" style="position:absolute;left:90px;top:360px;width:270px;height:40px;z-index:167;">
+            <a href="javascript:displaylightbox('./Zakaz_zvonka_po_akcii_down.php',{width:360,height:420,scrolling:'no',overlayOpacity:0.9})" target="_self"><img class="hover" src="images/img0095_hover.png" alt="" style="border-width:0;width:270px;height:40px;"><span><img src="images/img0095.png" id="indexShape22" alt="" style="border-width:0;width:270px;height:40px;"></span></a></div>
+      </div>
+      <div id="wb_indexText51" style="position:absolute;left:290px;top:5415px;width:380px;height:42px;text-align:center;z-index:260;">
+         <div style="position:absolute;left:0px;top:0px;width:380px;height:42px;"><span class="PT_Sans-24-b-n">Среди наших клиентов</span></div>
+      </div>
+      <div id="wb_indexLine35" style="position:absolute;left:676px;top:5426px;width:60px;height:0px;z-index:261;">
+         <img src="images/img0096.png" id="indexLine35" alt="">
+      </div>
+      <div id="wb_indexLine36" style="position:absolute;left:216px;top:5426px;width:60px;height:0px;z-index:262;">
+         <img src="images/img0097.png" id="indexLine36" alt="">
+      </div>
+      <div id="wb_indexLine37" style="position:absolute;left:246px;top:5436px;width:30px;height:0px;z-index:263;">
+         <img src="images/img0098.png" id="indexLine37" alt="">
+      </div>
+      <div id="wb_indexLine38" style="position:absolute;left:676px;top:5436px;width:30px;height:0px;z-index:264;">
+         <img src="images/img0099.png" id="indexLine38" alt="">
+      </div>
+      <div id="wb_indexImage14" style="position:absolute;left:440px;top:5500px;width:241px;height:60px;z-index:265;">
+         <img src="images/alutech_light.png" id="indexImage14" alt="" style="width:241px;height:60px;">
+      </div>
+      <div id="wb_indexImage15" style="position:absolute;left:220px;top:5500px;width:190px;height:67px;z-index:266;">
+         <img src="images/mapid_light.png" id="indexImage15" alt="" style="width:190px;height:67px;">
+      </div>
+      <div id="wb_indexImage16" style="position:absolute;left:710px;top:5480px;width:220px;height:115px;z-index:267;">
+         <img src="images/sladkaya_strana_light.png" id="indexImage16" alt="" style="width:220px;height:115px;">
+      </div>
+      <div id="wb_indexImage17" style="position:absolute;left:30px;top:5480px;width:173px;height:115px;z-index:268;">
+         <img src="images/titan_minsk_light.png" id="indexImage17" alt="" style="width:173px;height:115px;">
+      </div>
+      <div id="wb_indexImage23" style="position:absolute;left:670px;top:5630px;width:236px;height:76px;z-index:269;">
+         <img src="images/zorka_light.png" id="indexImage23" alt="" style="width:236px;height:76px;">
+      </div>
+      <div id="wb_indexImage24" style="position:absolute;left:370px;top:5580px;width:250px;height:150px;z-index:270;">
+         <img src="images/steilmann_1_light.png" id="indexImage24" alt="" style="width:250px;height:150px;">
+      </div>
+      <div id="wb_indexImage25" style="position:absolute;left:30px;top:5610px;width:300px;height:109px;z-index:271;">
+         <img src="images/eco_lavka_light.png" id="indexImage25" alt="" style="width:300px;height:109px;">
+      </div>
+      <div id="wb_indexText49" style="position:absolute;left:270px;top:7380px;width:420px;height:84px;text-align:center;z-index:272;">
+         <div style="position:absolute;left:0px;top:0px;width:420px;height:42px;"><h3>Видеонаблюдение в </h3></div>
+         <div style="position:absolute;left:0px;top:42px;width:420px;height:42px;"><h3>Беларуси</h3></div>
+      </div>
+      <div id="wb_indexLine41" style="position:absolute;left:696px;top:7411px;width:60px;height:0px;z-index:273;">
+         <img src="images/img0082.png" id="indexLine41" alt="">
+      </div>
+      <div id="wb_indexLine42" style="position:absolute;left:196px;top:7411px;width:60px;height:0px;z-index:274;">
+         <img src="images/img0083.png" id="indexLine42" alt="">
+      </div>
+      <div id="wb_indexLine43" style="position:absolute;left:696px;top:7421px;width:30px;height:0px;z-index:275;">
+         <img src="images/img0084.png" id="indexLine43" alt="">
+      </div>
+      <div id="wb_indexLine44" style="position:absolute;left:226px;top:7421px;width:30px;height:0px;z-index:276;">
+         <img src="images/img0085.png" id="indexLine44" alt="">
+      </div>
+      <div id="wb_indexText50" style="position:absolute;left:350px;top:7465px;width:260px;height:24px;text-align:center;z-index:277;">
+         <div style="position:absolute;left:0px;top:0px;width:260px;height:23px;"><span class="PT_Sans-14-b-b">География наших работ</span></div>
+      </div>
+      <div id="wb_indexText93" style="position:absolute;left:240px;top:1955px;width:490px;height:84px;text-align:center;z-index:278;">
+         <div style="position:absolute;left:0px;top:0px;width:490px;height:42px;"><h3>Специальное предложение по </h3></div>
+         <div style="position:absolute;left:0px;top:42px;width:490px;height:42px;"><h3>установке видеонаблюдения</h3></div>
+      </div>
+      <div id="wb_indexLine31" style="position:absolute;left:731px;top:6341px;width:60px;height:0px;z-index:279;">
+         <img src="images/img0048.png" id="indexLine31" alt="">
+      </div>
+      <div id="wb_indexLine32" style="position:absolute;left:161px;top:6341px;width:60px;height:0px;z-index:280;">
+         <img src="images/img0091.png" id="indexLine32" alt="">
+      </div>
+      <div id="wb_indexLine33" style="position:absolute;left:731px;top:6361px;width:30px;height:0px;z-index:281;">
+         <img src="images/img0092.png" id="indexLine33" alt="">
+      </div>
+      <div id="wb_indexLine34" style="position:absolute;left:191px;top:6361px;width:30px;height:0px;z-index:282;">
+         <img src="images/img0093.png" id="indexLine34" alt="">
+      </div>
+      <div id="wb_indexText9" style="position:absolute;left:235px;top:6315px;width:490px;height:84px;text-align:center;z-index:283;">
+         <div style="position:absolute;left:0px;top:0px;width:490px;height:42px;"><h3>Специальное предложение по </h3></div>
+         <div style="position:absolute;left:0px;top:42px;width:490px;height:42px;"><h3>установке видеонаблюдения</h3></div>
+      </div>
+      <div id="indexRollOver10" style="position:absolute;overflow:hidden;left:6px;top:8086px;width:33px;height:33px;z-index:284">
+         <a href="pro/support.php" target="_blank">
+            <img class="hover" alt="" src="images/support_bw.png" style="left:0;top:0;width:33px;height:33px;">
+            <span><img alt="" src="images/support_color.png" style="left:0;top:0;width:33px;height:33px"></span>
+         </a>
+      </div>
+   </div>
+   <div id="indexLayer29" style="position:absolute;text-align:center;left:0%;top:3120px;width:100%;height:1130px;z-index:285;" title="">
+      <div id="indexLayer29_Container" style="width:960px;position:relative;margin-left:auto;margin-right:auto;text-align:left;">
+      </div>
+   </div>
+   <div id="indexLayer23" style="position:absolute;text-align:center;left:0%;top:3140px;width:100%;height:1090px;z-index:286;" title="">
+      <div id="indexLayer23_Container" style="width:960px;position:relative;margin-left:auto;margin-right:auto;text-align:left;">
+         <div id="wb_indexImage8" style="position:absolute;left:490px;top:90px;width:352px;height:226px;z-index:0;">
+            <img src="images/img0073.png" id="indexImage8" alt="" style="width:352px;height:226px;"></div>
+         <div id="wb_indexShape9" style="position:absolute;left:110px;top:160px;width:360px;height:60px;z-index:1;">
+            <img src="images/img0030.png" id="indexShape9" alt="" style="border-width:0;width:360px;height:60px;"></div>
+         <div id="wb_indexShape8" style="position:absolute;left:80px;top:130px;width:58px;height:56px;z-index:2;">
+            <img src="images/img0031.png" id="indexShape8" alt="" style="border-width:0;width:58px;height:56px;"></div>
+         <div id="wb_indexImage10" style="position:absolute;left:120px;top:280px;width:352px;height:226px;z-index:3;">
+            <img src="images/img0074.png" id="indexImage10" alt="" style="width:352px;height:226px;"></div>
+         <div id="wb_indexShape10" style="position:absolute;left:490px;top:360px;width:340px;height:60px;z-index:4;">
+            <img src="images/img0032.png" id="indexShape10" alt="" style="border-width:0;width:340px;height:60px;"></div>
+         <div id="wb_indexShape11" style="position:absolute;left:800px;top:330px;width:58px;height:56px;z-index:5;">
+            <img src="images/img0033.png" id="indexShape11" alt="" style="border-width:0;width:58px;height:56px;"></div>
+         <div id="wb_indexImage11" style="position:absolute;left:490px;top:470px;width:352px;height:230px;z-index:6;">
+            <img src="images/img0075.png" id="indexImage11" alt="" style="width:352px;height:230px;"></div>
+         <div id="wb_indexShape12" style="position:absolute;left:150px;top:560px;width:320px;height:60px;z-index:7;">
+            <img src="images/img0034.png" id="indexShape12" alt="" style="border-width:0;width:320px;height:60px;"></div>
+         <div id="wb_indexShape13" style="position:absolute;left:120px;top:530px;width:58px;height:56px;z-index:8;">
+            <img src="images/img0035.png" id="indexShape13" alt="" style="border-width:0;width:58px;height:56px;"></div>
+         <div id="wb_indexImage12" style="position:absolute;left:120px;top:670px;width:347px;height:226px;z-index:9;">
+            <img src="images/img0076.png" id="indexImage12" alt="" style="width:347px;height:226px;"></div>
+         <div id="wb_indexShape14" style="position:absolute;left:490px;top:750px;width:330px;height:60px;z-index:10;">
+            <img src="images/img0036.png" id="indexShape14" alt="" style="border-width:0;width:330px;height:60px;"></div>
+         <div id="wb_indexShape15" style="position:absolute;left:790px;top:720px;width:58px;height:56px;z-index:11;">
+            <img src="images/img0037.png" id="indexShape15" alt="" style="border-width:0;width:58px;height:56px;"></div>
+         <div id="wb_indexImage35" style="position:absolute;left:490px;top:860px;width:352px;height:226px;z-index:12;">
+            <img src="images/img0077.png" id="indexImage35" alt="" style="width:352px;height:226px;"></div>
+         <div id="wb_indexShape16" style="position:absolute;left:140px;top:940px;width:330px;height:60px;z-index:13;">
+            <img src="images/img0038.png" id="indexShape16" alt="" style="border-width:0;width:330px;height:60px;"></div>
+         <div id="wb_indexShape17" style="position:absolute;left:110px;top:910px;width:58px;height:56px;z-index:14;">
+            <img src="images/img0065.png" id="indexShape17" alt="" style="border-width:0;width:58px;height:56px;"></div>
+         <div id="wb_indexText40" style="position:absolute;left:230px;top:5px;width:500px;height:84px;text-align:center;z-index:15;">
+            <div style="position:absolute;left:0px;top:0px;width:500px;height:42px;"><h2>Оцените пользу от установки </h2></div>
+            <div style="position:absolute;left:0px;top:42px;width:500px;height:42px;"><h2>видеонаблюдения</h2></div>
+         </div>
+         <div id="wb_indexLine17" style="position:absolute;left:156px;top:36px;width:60px;height:0px;z-index:16;">
+            <img src="images/img0027.png" id="indexLine17" alt=""></div>
+         <div id="wb_indexLine18" style="position:absolute;left:186px;top:46px;width:30px;height:0px;z-index:17;">
+            <img src="images/img0028.png" id="indexLine18" alt=""></div>
+         <div id="wb_indexLine12" style="position:absolute;left:736px;top:36px;width:60px;height:0px;z-index:18;">
+            <img src="images/img0026.png" id="indexLine12" alt=""></div>
+         <div id="wb_indexLine19" style="position:absolute;left:736px;top:46px;width:30px;height:0px;z-index:19;">
+            <img src="images/img0029.png" id="indexLine19" alt=""></div>
+      </div>
+   </div>
+   <div id="indexLayer1" style="position:absolute;text-align:center;left:0%;top:0px;width:100%;height:700px;z-index:287;" title="">
+      <div id="indexLayer1_Container" style="width:960px;position:relative;margin-left:auto;margin-right:auto;text-align:left;">
+         <div id="indexLayer4" style="position:absolute;text-align:center;left:44%;top:210px;width:52%;height:190px;z-index:28;" title="">
+            <div id="indexLayer4_Container" style="width:500px;position:relative;margin-left:auto;margin-right:auto;text-align:left;">
+               <div id="wb_indexText10" style="position:absolute;left:20px;top:130px;width:460px;height:42px;text-align:center;z-index:26;">
+                  <div style="position:absolute;left:0px;top:0px;width:460px;height:42px;"><span class="PT_Sans-24-b-n">Смонтируем все через 24 часа</span></div>
+               </div>
+               <div id="wb_indexText7" style="position:absolute;left:20px;top:5px;width:462px;height:124px;text-align:center;z-index:27;">
+                  <div style="position:absolute;left:0px;top:0px;width:462px;height:62px;"><h1>Установка камер </h1></div>
+                  <div style="position:absolute;left:0px;top:62px;width:462px;height:62px;"><h1>видеонаблюдения</h1></div>
+               </div>
+            </div>
+         </div>
+         <div id="wb_indexImage51" style="position:absolute;left:4px;top:120px;width:487px;height:183px;z-index:29;">
+            <img src="images/ip_kam_hik_png_1_little.png" id="indexImage51" alt="" style="width:487px;height:183px;"></div>
+      </div>
+   </div>
+   <div id="indexLayer2" style="position:absolute;text-align:center;left:0%;top:480px;width:100%;height:200px;z-index:288;" title="">
+      <div id="indexLayer2_Container" style="width:960px;position:relative;margin-left:auto;margin-right:auto;text-align:left;">
+         <div id="wb_indexText1" style="position:absolute;left:720px;top:120px;width:220px;height:72px;text-align:center;z-index:30;">
+            <div style="position:absolute;left:0px;top:0px;width:220px;height:23px;"><span class="PT_Sans-14-w-b">Обслуживаем любые </span></div>
+            <div style="position:absolute;left:0px;top:24px;width:220px;height:23px;"><span class="PT_Sans-14-w-b">объекты,любой</span></div>
+            <div style="position:absolute;left:0px;top:48px;width:220px;height:23px;"><span class="PT_Sans-14-w-b">сложности</span></div>
+         </div>
+         <div id="wb_indexImage2" style="position:absolute;left:70px;top:10px;width:101px;height:100px;z-index:31;">
+            <img src="images/PR_1.png" id="indexImage2" alt="" style="width:101px;height:100px;"></div>
+         <div id="wb_indexImage3" style="position:absolute;left:300px;top:10px;width:101px;height:100px;z-index:32;">
+            <img src="images/PR_2.png" id="indexImage3" alt="" style="width:101px;height:100px;"></div>
+         <div id="wb_indexImage5" style="position:absolute;left:780px;top:10px;width:100px;height:100px;z-index:33;">
+            <img src="images/PR_4.png" id="indexImage5" alt="" style="width:100px;height:100px;"></div>
+         <div id="wb_indexImage4" style="position:absolute;left:550px;top:10px;width:100px;height:100px;z-index:34;">
+            <img src="images/PR_3.png" id="indexImage4" alt="" style="width:100px;height:100px;"></div>
+         <div id="wb_indexText2" style="position:absolute;left:490px;top:120px;width:220px;height:48px;text-align:center;z-index:35;">
+            <div style="position:absolute;left:0px;top:0px;width:220px;height:23px;"><span class="PT_Sans-14-w-b">Гарантия на </span></div>
+            <div style="position:absolute;left:0px;top:24px;width:220px;height:23px;"><span class="PT_Sans-14-w-b">оборудование до 3 лет!</span></div>
+         </div>
+         <div id="wb_indexText3" style="position:absolute;left:240px;top:120px;width:220px;height:48px;text-align:center;z-index:36;">
+            <div style="position:absolute;left:0px;top:0px;width:220px;height:23px;"><span class="PT_Sans-14-w-b">Опыт наших </span></div>
+            <div style="position:absolute;left:0px;top:24px;width:220px;height:23px;"><span class="PT_Sans-14-w-b">монтажников от 4 лет</span></div>
+         </div>
+         <div id="wb_indexText4" style="position:absolute;left:10px;top:120px;width:220px;height:24px;text-align:center;z-index:37;">
+            <div style="position:absolute;left:0px;top:0px;width:220px;height:23px;"><span class="PT_Sans-14-w-b">Адекватные цены</span></div>
+         </div>
+      </div>
+   </div>
+   <div id="indexLayer3" style="position:absolute;text-align:center;left:0%;top:0px;width:100%;height:155px;z-index:289;" title="">
+      <div id="indexLayer3_Container" style="width:960px;position:relative;margin-left:auto;margin-right:auto;text-align:left;">
+         <div id="wb_indexText5" style="position:absolute;left:345px;top:5px;width:275px;height:108px;text-align:center;z-index:38;">
+            <div style="position:absolute;left:0px;top:0px;width:275px;height:27px;"><span class="PT_Sans-16-b-n">Работаем по Минску </span></div>
+            <div style="position:absolute;left:0px;top:27px;width:275px;height:27px;"><span class="PT_Sans-16-b-n">и всей Беларуси </span></div>
+            <div style="position:absolute;left:0px;top:54px;width:275px;height:27px;"><span class="PT_Sans-16-b-n">С 8:00 до 20:00</span></div>
+            <div style="position:absolute;left:0px;top:81px;width:275px;height:27px;"><span class="PT_Sans-16-b-n">БЕЗ ВЫХОДНЫХ</span></div>
+         </div>
+         <div id="wb_indexText6" style="position:absolute;left:710px;top:20px;width:235px;height:81px;text-align:right;z-index:39;">
+            <div style="position:absolute;left:0px;top:0px;width:235px;height:27px;"><span class="PT_Sans-16-b-n">Получите консультацию</span></div>
+            <div style="position:absolute;left:0px;top:27px;width:235px;height:27px;"><span class="PT_Sans-16-b-n">+375-29-306-23-12</span></div>
+            <div style="position:absolute;left:0px;top:54px;width:235px;height:27px;"><span class="PT_Sans-16-b-n">+375-29-517-85-18</span></div>
+         </div>
+         <div id="wb_indexImage9" style="position:absolute;left:730px;top:50px;width:30px;height:47px;z-index:40;">
+            <img src="images/contacti_no_city.png" id="indexImage9" alt="" style="width:30px;height:47px;"></div>
+         <div id="wb_indexShape1" style="position:absolute;left:740px;top:115px;width:210px;height:35px;z-index:41;">
+            <a href="javascript:displaylightbox('./Zakaz_zvonka_up.php',{width:360,height:420,scrolling:'no',overlayOpacity:0.9})" target="_self"><img class="hover" src="images/img0001_hover.png" alt="" style="border-width:0;width:210px;height:35px;"><span><img src="images/img0001.png" id="indexShape1" alt="" style="border-width:0;width:210px;height:35px;"></span></a></div>
+         <div id="wb_indexImage50" style="position:absolute;left:360px;top:120px;width:39px;height:25px;z-index:42;">
+            <img src="images/convert_lit.png" id="indexImage50" alt="" style="width:39px;height:25px;"></div>
+         <div id="wb_indexText15" style="position:absolute;left:400px;top:120px;width:210px;height:27px;text-align:center;z-index:43;">
+            <div style="position:absolute;left:0px;top:0px;width:210px;height:27px;"><span class="PT_Sans-16-b-n">e-mail: info@attn.by</span></div>
+         </div>
+         <div id="wb_indexText11" style="position:absolute;left:5px;top:23px;width:328px;height:62px;text-align:center;z-index:44;">
+            <div style="position:absolute;left:0px;top:0px;width:328px;height:31px;"><span class="PT_Sans-18-b-n">Продажа и установка </span></div>
+            <div style="position:absolute;left:0px;top:31px;width:328px;height:31px;"><span class="PT_Sans-18-b-n">систем видеонаблюдения</span></div>
+         </div>
+      </div>
+   </div>
+   <div id="indexLayer5" style="position:absolute;text-align:center;left:0%;top:1330px;width:100%;height:580px;z-index:290;" title="">
+      <div id="indexLayer5_Container" style="width:960px;position:relative;margin-left:auto;margin-right:auto;text-align:left;">
+      </div>
+   </div>
+   <div id="indexLayer6" style="position:absolute;text-align:center;left:0%;top:1350px;width:100%;height:540px;z-index:291;" title="">
+      <div id="indexLayer6_Container" style="width:960px;position:relative;margin-left:auto;margin-right:auto;text-align:left;">
+         <div id="wb_indexImage18" style="position:absolute;left:710px;top:80px;width:170px;height:170px;z-index:47;">
+            <img src="images/calck_2_light.png" id="indexImage18" alt="" style="width:170px;height:170px;"></div>
+         <div id="wb_indexImage20" style="position:absolute;left:400px;top:80px;width:170px;height:170px;z-index:48;">
+            <img src="images/calend_2_light.png" id="indexImage20" alt="" style="width:170px;height:170px;"></div>
+         <div id="wb_indexImage21" style="position:absolute;left:240px;top:310px;width:170px;height:170px;z-index:49;">
+            <img src="images/garant_2_light.png" id="indexImage21" alt="" style="width:170px;height:170px;"></div>
+         <div id="wb_indexImage22" style="position:absolute;left:550px;top:310px;width:170px;height:170px;z-index:50;">
+            <img src="images/money_2_light.png" id="indexImage22" alt="" style="width:170px;height:170px;"></div>
+         <div id="wb_indexImage19" style="position:absolute;left:90px;top:80px;width:170px;height:170px;z-index:51;">
+            <img src="images/sroki_2_light.png" id="indexImage19" alt="" style="width:170px;height:170px;"></div>
+         <div id="wb_indexText17" style="position:absolute;left:60px;top:250px;width:220px;height:48px;text-align:center;z-index:52;">
+            <div style="position:absolute;left:0px;top:0px;width:220px;height:23px;"><span class="PT_Sans-14-w-b">Гарантия соблюдения </span></div>
+            <div style="position:absolute;left:0px;top:24px;width:220px;height:23px;"><span class="PT_Sans-14-w-b">сроков</span></div>
+         </div>
+         <div id="wb_indexText18" style="position:absolute;left:370px;top:240px;width:220px;height:72px;text-align:center;z-index:53;">
+            <div style="position:absolute;left:0px;top:0px;width:220px;height:23px;"><span class="PT_Sans-14-w-b">Используем только </span></div>
+            <div style="position:absolute;left:0px;top:24px;width:220px;height:23px;"><span class="PT_Sans-14-w-b">сертифицированное </span></div>
+            <div style="position:absolute;left:0px;top:48px;width:220px;height:23px;"><span class="PT_Sans-14-w-b">оборудование</span></div>
+         </div>
+         <div id="wb_indexText19" style="position:absolute;left:670px;top:230px;width:240px;height:96px;text-align:center;z-index:54;">
+            <div style="position:absolute;left:0px;top:0px;width:240px;height:23px;"><span class="PT_Sans-14-w-b">Выезд замерщика</span></div>
+            <div style="position:absolute;left:0px;top:24px;width:240px;height:23px;"><span class="PT_Sans-14-w-b">на объект и составление </span></div>
+            <div style="position:absolute;left:0px;top:48px;width:240px;height:23px;"><span class="PT_Sans-14-w-b">сметы в нескольких </span></div>
+            <div style="position:absolute;left:0px;top:72px;width:240px;height:23px;"><span class="PT_Sans-14-w-b">вариантах</span></div>
+         </div>
+         <div id="wb_indexText20" style="position:absolute;left:210px;top:470px;width:220px;height:48px;text-align:center;z-index:55;">
+            <div style="position:absolute;left:0px;top:0px;width:220px;height:23px;"><span class="PT_Sans-14-w-b">Гарантия от</span></div>
+            <div style="position:absolute;left:0px;top:24px;width:220px;height:23px;"><span class="PT_Sans-14-w-b">производителя до 3 лет</span></div>
+         </div>
+         <div id="wb_indexText21" style="position:absolute;left:520px;top:460px;width:240px;height:72px;text-align:center;z-index:56;">
+            <div style="position:absolute;left:0px;top:0px;width:240px;height:23px;"><span class="PT_Sans-14-w-b">Возможность</span></div>
+            <div style="position:absolute;left:0px;top:24px;width:240px;height:23px;"><span class="PT_Sans-14-w-b">наличного и безналичного </span></div>
+            <div style="position:absolute;left:0px;top:48px;width:240px;height:23px;"><span class="PT_Sans-14-w-b">расчета</span></div>
+         </div>
+         <div id="wb_indexLine7" style="position:absolute;left:106px;top:36px;width:60px;height:0px;z-index:57;">
+            <img src="images/img0014.png" id="indexLine7" alt=""></div>
+         <div id="wb_indexLine8" style="position:absolute;left:136px;top:46px;width:30px;height:0px;z-index:58;">
+            <img src="images/img0015.png" id="indexLine8" alt=""></div>
+         <div id="wb_indexLine6" style="position:absolute;left:786px;top:36px;width:60px;height:0px;z-index:59;">
+            <img src="images/img0013.png" id="indexLine6" alt=""></div>
+         <div id="wb_indexLine9" style="position:absolute;left:786px;top:46px;width:30px;height:0px;z-index:60;">
+            <img src="images/img0016.png" id="indexLine9" alt=""></div>
+         <div id="wb_indexText16" style="position:absolute;left:180px;top:5px;width:600px;height:84px;text-align:center;z-index:61;">
+            <div style="position:absolute;left:0px;top:0px;width:600px;height:42px;"><h2>Почему монтаж камер видеонаблюдения </h2></div>
+            <div style="position:absolute;left:0px;top:42px;width:600px;height:42px;"><h2>доверяют именно нам?</h2></div>
+         </div>
+      </div>
+   </div>
+   <div id="indexLayer11" style="position:absolute;text-align:center;left:0%;top:4810px;width:100%;height:560px;z-index:292;" title="">
+      <div id="indexLayer11_Container" style="width:960px;position:relative;margin-left:auto;margin-right:auto;text-align:left;">
+      </div>
+   </div>
+   <div id="indexLayer12" style="position:absolute;text-align:center;left:0%;top:4830px;width:100%;height:520px;z-index:293;" title="">
+      <div id="indexLayer12_Container" style="width:960px;position:relative;margin-left:auto;margin-right:auto;text-align:left;">
+         <div id="wb_indexText42" style="position:absolute;left:285px;top:35px;width:390px;height:42px;text-align:center;z-index:62;">
+            <div style="position:absolute;left:0px;top:0px;width:390px;height:42px;"><span class="PT_Sans-24-w-n">Схема работы с клиентами</span></div>
+         </div>
+         <div id="wb_indexText43" style="position:absolute;left:135px;top:210px;width:170px;height:48px;text-align:center;z-index:63;">
+            <span class="PT_Sans-14-w-b">Звоните нам или <br>оставляете заявку</span></div>
+         <div id="wb_indexText44" style="position:absolute;left:390px;top:210px;width:180px;height:120px;text-align:center;z-index:64;">
+            <span class="PT_Sans-14-w-b">Наш менеджер связывается&nbsp; с Вами и консультирует по всем вопросам. БЕСПЛАТНО</span></div>
+         <div id="wb_indexText45" style="position:absolute;left:655px;top:210px;width:170px;height:96px;text-align:center;z-index:65;">
+            <span class="PT_Sans-14-w-b">Наш прораб выезжает на Ваш объект.<br>БЕСПЛАТНО</span></div>
+         <div id="wb_indexText46" style="position:absolute;left:655px;top:420px;width:170px;height:96px;text-align:center;z-index:66;">
+            <span class="PT_Sans-14-w-b">Готовим для Вас коммерческое предложение. БЕСПЛАТНО</span></div>
+         <div id="wb_indexText48" style="position:absolute;left:395px;top:420px;width:170px;height:48px;text-align:center;z-index:67;">
+            <span class="PT_Sans-14-w-b">Монтаж Пусконаладка </span></div>
+         <div id="wb_indexText47" style="position:absolute;left:130px;top:420px;width:170px;height:48px;text-align:center;z-index:68;">
+            <span class="PT_Sans-14-w-b">Ваш объект под надежной охраной</span></div>
+         <div id="wb_indexLine27" style="position:absolute;left:676px;top:46px;width:60px;height:0px;z-index:69;">
+            <img src="images/img0078.png" id="indexLine27" alt=""></div>
+         <div id="wb_indexLine28" style="position:absolute;left:216px;top:46px;width:60px;height:0px;z-index:70;">
+            <img src="images/img0079.png" id="indexLine28" alt=""></div>
+         <div id="wb_indexLine29" style="position:absolute;left:676px;top:56px;width:30px;height:0px;z-index:71;">
+            <img src="images/img0080.png" id="indexLine29" alt=""></div>
+         <div id="wb_indexLine30" style="position:absolute;left:246px;top:56px;width:30px;height:0px;z-index:72;">
+            <img src="images/img0081.png" id="indexLine30" alt=""></div>
+         <div id="wb_indexImage44" style="position:absolute;left:120px;top:120px;width:789px;height:299px;z-index:73;">
+            <img src="images/sxema_light_1.png" id="indexImage44" alt="" style="width:789px;height:299px;"></div>
+         <div id="wb_indexShape19" style="position:absolute;left:135px;top:260px;width:170px;height:30px;z-index:74;">
+            <a href="javascript:displaylightbox('./Zakaz_zvonka_po_sheme.php',{width:360,height:420,scrolling:'no',overlayOpacity:0.9})" target="_self"><img class="hover" src="images/img0008_hover.png" alt="" style="border-width:0;width:170px;height:30px;"><span><img src="images/img0008.png" id="indexShape19" alt="" style="border-width:0;width:170px;height:30px;"></span></a></div>
+      </div>
+   </div>
+   <div id="indexLayer17" style="position:absolute;text-align:center;left:0%;top:6920px;width:100%;height:450px;z-index:294;" title="">
+      <div id="indexLayer17_Container" style="width:960px;position:relative;margin-left:auto;margin-right:auto;text-align:left;">
+         <div id="wb_indexText60" style="position:absolute;left:290px;top:35px;width:380px;height:42px;text-align:center;z-index:107;">
+            <div style="position:absolute;left:0px;top:0px;width:380px;height:42px;"><span class="PT_Sans-24-b-n">Отзывы наших клиентов</span></div>
+         </div>
+         <div id="wb_indexLine20" style="position:absolute;left:676px;top:46px;width:60px;height:0px;z-index:108;">
+            <img src="images/img0068.png" id="indexLine20" alt=""></div>
+         <div id="wb_indexLine21" style="position:absolute;left:216px;top:46px;width:60px;height:0px;z-index:109;">
+            <img src="images/img0069.png" id="indexLine21" alt=""></div>
+         <div id="wb_indexLine22" style="position:absolute;left:246px;top:56px;width:30px;height:0px;z-index:110;">
+            <img src="images/img0070.png" id="indexLine22" alt=""></div>
+         <div id="wb_indexLine23" style="position:absolute;left:676px;top:56px;width:30px;height:0px;z-index:111;">
+            <img src="images/img0071.png" id="indexLine23" alt=""></div>
+         <div id="wb_indexCarousel3" style="position:absolute;left:10px;top:105px;width:940px;height:320px;z-index:112;overflow:hidden">
+            <div id="indexCarousel3" style="position:absolute">
+               <div class="frame">
+                  <div id="wb_indexText68" style="position:absolute;left:305px;top:230px;width:280px;height:48px;text-align:center;z-index:75;">
+                     <span class="PT_Sans-14-b-b">Видеонаблюдение в квартире.<br>г. Могилев</span></div>
+                  <div id="wb_indexImage60" style="position:absolute;left:270px;top:40px;width:643px;height:167px;z-index:76;">
+                     <img src="images/block_otziva_1.png" id="indexImage60" alt="" style="width:643px;height:167px;"></div>
+                  <div id="wb_indexText69" style="position:absolute;left:330px;top:70px;width:560px;height:100px;z-index:77;text-align:left;">
+                     <span class="PT_Sans-12-b-n">Мне была необходима система видеонаблюдения за нанятой няней. Систему посоветовали с удаленным просмотром, кстати, по акции, бесплатно настройка обошлась. Теперь спокоен я и моя любимая супруга, оставляя ребенка с няней. Сделали все достаточно быстро, в течение 24 часов, как и обещали, порадовало. Спасибо ребятам.</span></div>
+                  <div id="wb_indexImage59" style="position:absolute;left:60px;top:60px;width:200px;height:199px;z-index:78;">
+                     <img src="images/M1_light.png" id="indexImage59" alt="" style="width:200px;height:199px;"></div>
+               </div>
+               <div class="frame">
+                  <div id="wb_indexImage62" style="position:absolute;left:1210px;top:40px;width:643px;height:167px;z-index:79;">
+                     <img src="images/block_otziva_1.png" id="indexImage62" alt="" style="width:643px;height:167px;"></div>
+                  <div id="wb_indexText62" style="position:absolute;left:1270px;top:50px;width:570px;height:120px;z-index:80;text-align:left;">
+                     <span class="PT_Sans-12-b-n">Мне устанавливили камеры видеонаблюдения в магазин. В attn.by обратился по совету моего хорошего знакомого, ему смонтировали камеры видеонаблюдения в загородном доме, говорил, что два года полной гарантии дается. Мне нужна была цифровая IP система над кассами. На входе получилось четко как и хотел. А неделю назад с помощью системы мы поймали вора, который пытался пронести товар мимо кассы. Вот и решил отзыв написать для фирмы. </span></div>
+                  <div id="wb_indexText63" style="position:absolute;left:1245px;top:230px;width:270px;height:48px;text-align:center;z-index:81;">
+                     <span class="PT_Sans-14-b-b">Видеонаблюдение в магазин. <br>г. Минск</span></div>
+                  <div id="wb_indexImage63" style="position:absolute;left:1000px;top:60px;width:200px;height:201px;z-index:82;">
+                     <img src="images/M2_light.png" id="indexImage63" alt="" style="width:200px;height:201px;"></div>
+               </div>
+               <div class="frame">
+                  <div id="wb_indexImage64" style="position:absolute;left:2150px;top:40px;width:643px;height:167px;z-index:83;">
+                     <img src="images/block_otziva_1.png" id="indexImage64" alt="" style="width:643px;height:167px;"></div>
+                  <div id="wb_indexText64" style="position:absolute;left:2180px;top:220px;width:335px;height:72px;text-align:center;z-index:84;">
+                     <span class="PT_Sans-14-b-b">Видеонаблюдение на производстве <br>бетонных колец.<br>г. Минск</span></div>
+                  <div id="wb_indexText65" style="position:absolute;left:2210px;top:60px;width:560px;height:120px;z-index:85;text-align:left;">
+                     <span class="PT_Sans-12-b-n">У меня небольшое производство. Присутствовать на месте и контролировать сотрудников как они работаю, во сколько приходят на рабочее место, по сколько минут у них перекур и обед, нет возможности. Очень много разъездов поэтому установка камер видеонаблюдения меня очень выручает. Существенным достоинством является удаленный доступ. Спасибо за доброе дело!</span></div>
+                  <div id="wb_indexImage65" style="position:absolute;left:1940px;top:60px;width:200px;height:203px;z-index:86;">
+                     <img src="images/M3_light.png" id="indexImage65" alt="" style="width:200px;height:203px;"></div>
+               </div>
+               <div class="frame">
+                  <div id="wb_indexImage66" style="position:absolute;left:3090px;top:40px;width:643px;height:167px;z-index:87;">
+                     <img src="images/block_otziva_1.png" id="indexImage66" alt="" style="width:643px;height:167px;"></div>
+                  <div id="wb_indexText66" style="position:absolute;left:3110px;top:230px;width:350px;height:48px;text-align:center;z-index:88;">
+                     <span class="PT_Sans-14-b-b">Видеонаблюдение на автостоянке.<br>г. Минск</span></div>
+                  <div id="wb_indexText67" style="position:absolute;left:3150px;top:50px;width:560px;height:140px;z-index:89;text-align:left;">
+                     <span class="PT_Sans-12-b-n">Мне делали цифровую ip систему на автостоянке. Вышло прилично, но я готова платить за качество, да и другие фирмы немалую цену называли. В attn.by обратилась по совету моего партнера. Очень быстро установили камеры видеонаблюдения, очень порадовало, что данные камеры записывают видео по срабатыванию движения. После монтажа камер, ребята объяснили очень доступным языком как пользоваться системой. Радует, что есть поддержка в любое время. </span></div>
+                  <div id="wb_indexImage67" style="position:absolute;left:2880px;top:60px;width:200px;height:199px;z-index:90;">
+                     <img src="images/G1_light.png" id="indexImage67" alt="" style="width:200px;height:199px;"></div>
+               </div>
+               <div class="frame">
+                  <div id="wb_indexImage68" style="position:absolute;left:4030px;top:40px;width:643px;height:167px;z-index:91;">
+                     <img src="images/block_otziva_1.png" id="indexImage68" alt="" style="width:643px;height:167px;"></div>
+                  <div id="wb_indexText70" style="position:absolute;left:4090px;top:50px;width:560px;height:120px;z-index:92;text-align:left;">
+                     <span class="PT_Sans-12-b-n">Все отлично рассказали по телефону, мне понравилось несколько предложений. Хотелось систему видеонаблюдения побюджетнее, именно поэтому остановился на аналоговом видеонаблюдении и удаленном доступе на планшете. Смонтировали систему и произвели пусконаладку в течение дня. Мне установили 7 камер на улице и три купольных в доме. Заказ был выполнена всрок Ребята молодцы! Спасибо</span></div>
+                  <div id="wb_indexText71" style="position:absolute;left:4065px;top:230px;width:260px;height:48px;text-align:center;z-index:93;">
+                     <span class="PT_Sans-14-b-b">Видеонаблюдение на даче .<br>Минская обл.</span></div>
+                  <div id="wb_indexImage69" style="position:absolute;left:3820px;top:60px;width:200px;height:201px;z-index:94;">
+                     <img src="images/M4_light.png" id="indexImage69" alt="" style="width:200px;height:201px;"></div>
+               </div>
+               <div class="frame">
+                  <div id="wb_indexImage70" style="position:absolute;left:4970px;top:40px;width:643px;height:167px;z-index:95;">
+                     <img src="images/block_otziva_1.png" id="indexImage70" alt="" style="width:643px;height:167px;"></div>
+                  <div id="wb_indexText72" style="position:absolute;left:5010px;top:230px;width:265px;height:48px;text-align:center;z-index:96;">
+                     <span class="PT_Sans-14-b-b">Видеонаблюдение для дома.<br>д. Дудки, Вит. обл.</span></div>
+                  <div id="wb_indexText73" style="position:absolute;left:5030px;top:60px;width:560px;height:140px;z-index:97;text-align:left;">
+                     <span class="PT_Sans-12-b-n">Установили камеры видеонаблюдения в доме за городом. Смонтировали 9 камер за один день. Работу выполняло два человека (очень шустрые ребята), приехали с утра, закончили к вечеру. Система была непростая + удаленный доступ на моем планшете. Все работает, сбоев не наблюдал! Понравилось, что ребята все делали четко и аккуратно. Единственные, кто согласился ехать, т.к. дом находится далеко от Минска (300км.). Огромное спасибо за качество и скорость.</span></div>
+                  <div id="wb_indexImage71" style="position:absolute;left:4760px;top:60px;width:200px;height:201px;z-index:98;">
+                     <img src="images/M5_light.png" id="indexImage71" alt="" style="width:200px;height:201px;"></div>
+               </div>
+               <div class="frame">
+                  <div id="wb_indexImage72" style="position:absolute;left:5910px;top:40px;width:643px;height:167px;z-index:99;">
+                     <img src="images/block_otziva_1.png" id="indexImage72" alt="" style="width:643px;height:167px;"></div>
+                  <div id="wb_indexText74" style="position:absolute;left:5970px;top:60px;width:560px;height:120px;z-index:100;text-align:left;">
+                     <span class="PT_Sans-12-b-n">Заказывал систему видеонаблюдения для магазина в торговом центре. Работники новые, нанятые, соответственно нужен контроль. Фирма работает достаточно оперативно. Оставил заявку и уже через 3 минуты перезвонили, все разъяснили по телефону. Установили камеры видеонаблюдения в тот же день. Ставил цифровую систему, качеством за такие деньги&nbsp; доволен. Спасибо attn.by <br>Мои рекомендации.</span></div>
+                  <div id="wb_indexText75" style="position:absolute;left:5950px;top:230px;width:250px;height:48px;text-align:center;z-index:101;">
+                     <span class="PT_Sans-14-b-b">Видеонаблюдение на даче .<br>Минская обл.</span></div>
+                  <div id="wb_indexImage73" style="position:absolute;left:5700px;top:60px;width:200px;height:199px;z-index:102;">
+                     <img src="images/M6_light.png" id="indexImage73" alt="" style="width:200px;height:199px;"></div>
+               </div>
+               <div class="frame">
+                  <div id="wb_indexImage74" style="position:absolute;left:6850px;top:40px;width:643px;height:167px;z-index:103;">
+                     <img src="images/block_otziva_1.png" id="indexImage74" alt="" style="width:643px;height:167px;"></div>
+                  <div id="wb_indexText76" style="position:absolute;left:6910px;top:70px;width:560px;height:100px;z-index:104;text-align:left;">
+                     <span class="PT_Sans-12-b-n">Заказывала установку камер видеонаблюдения в салон красоты. Сама насчитала, что нужно 12 камер, но , балго, мне специалист на выезде пересчитал и получилось, что достаточно 9 камер,если расположить в правильных местах. За честность огромное спасибо! Установили камеры очень&nbsp; аккуратно, быстро! Огромное спасибо.</span></div>
+                  <div id="wb_indexText77" style="position:absolute;left:6890px;top:230px;width:320px;height:48px;text-align:center;z-index:105;">
+                     <span class="PT_Sans-14-b-b">Видеонаблюдение в салон красоты.<br>г. Брест</span></div>
+                  <div id="wb_indexImage75" style="position:absolute;left:6640px;top:60px;width:200px;height:200px;z-index:106;">
+                     <img src="images/G2_light.png" id="indexImage75" alt="" style="width:200px;height:200px;"></div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+   <div id="indexLayer18" style="position:absolute;text-align:center;left:0%;top:8130px;width:100%;height:150px;z-index:295;" title="">
+      <div id="indexLayer18_Container" style="width:960px;position:relative;margin-left:auto;margin-right:auto;text-align:left;">
+         <div id="wb_indexText80" style="position:absolute;left:330px;top:10px;width:300px;height:100px;text-align:center;z-index:145;">
+            <div style="position:absolute;left:0px;top:0px;width:300px;height:20px;"><span class="PT_Sans-12-w-n">ООО &quot; ФОРТ БЕЗОПАСНОСТИ&quot;</span></div>
+            <div style="position:absolute;left:0px;top:20px;width:300px;height:20px;"><span class="PT_Sans-12-w-n">Технический директор</span></div>
+            <div style="position:absolute;left:0px;top:40px;width:300px;height:20px;"><span class="PT_Sans-12-w-n">Акимов Олег Васильевич</span></div>
+            <div style="position:absolute;left:0px;top:60px;width:300px;height:20px;"><span class="PT_Sans-12-w-n">Телефон: +375 (29) 306-23-12</span></div>
+            <div style="position:absolute;left:0px;top:80px;width:300px;height:20px;"><span class="PT_Sans-12-w-n">e-mail: info@attn.by</span></div>
+         </div>
+         <div id="wb_indexText82" style="position:absolute;left:330px;top:110px;width:300px;height:20px;text-align:center;z-index:146;">
+            <div style="position:absolute;left:0px;top:0px;width:300px;height:20px;"><span class="PT_Sans-12-g-n_">ПОЛИТИКА КОНФИДЕНЦИАЛЬНОСТИ</span></div>
+         </div>
+         <div id="wb_indexShape20" style="position:absolute;left:750px;top:110px;width:200px;height:35px;z-index:147;">
+            <a href="javascript:displaylightbox('./Zakaz_zvonka_down.php',{width:360,height:420,scrolling:'no',overlayOpacity:0.9})" target="_self"><img class="hover" src="images/img0009_hover.png" alt="" style="border-width:0;width:200px;height:35px;"><span><img src="images/img0009.png" id="indexShape20" alt="" style="border-width:0;width:200px;height:35px;"></span></a></div>
+         <div id="wb_indexText24" style="position:absolute;left:730px;top:10px;width:220px;height:72px;text-align:right;z-index:148;">
+            <div style="position:absolute;left:0px;top:0px;width:220px;height:23px;"><span class="PT_Sans-14-w-n">Получите консультацию</span></div>
+            <div style="position:absolute;left:0px;top:24px;width:220px;height:23px;"><span class="PT_Sans-14-w-n">+375-29-306-23-12</span></div>
+            <div style="position:absolute;left:0px;top:48px;width:220px;height:23px;"><span class="PT_Sans-14-w-n">+375-29-517-85-18</span></div>
+         </div>
+         <div id="wb_indexImage7" style="position:absolute;left:750px;top:35px;width:30px;height:47px;z-index:149;">
+            <img src="images/contacti_no_city.png" id="indexImage7" alt="" style="width:30px;height:47px;"></div>
+         <div id="wb_indexText12" style="position:absolute;left:6px;top:37px;width:300px;height:62px;text-align:center;z-index:150;">
+            <div style="position:absolute;left:0px;top:0px;width:300px;height:31px;"><span class="PT_Sans-18-w-n">Продажа и установка </span></div>
+            <div style="position:absolute;left:0px;top:31px;width:300px;height:31px;"><span class="PT_Sans-18-w-n">систем видеонаблюдения</span></div>
+         </div>
+      </div>
+   </div>
+   <div id="indexLayer19" style="position:absolute;text-align:center;left:0%;top:680px;width:100%;height:20px;z-index:296;" title="">
+      <div id="indexLayer19_Container" style="width:960px;position:relative;margin-left:auto;margin-right:auto;text-align:left;">
+      </div>
+   </div>
+   <div id="indexLayer14" style="position:absolute;text-align:center;left:0%;top:1330px;width:100%;height:20px;z-index:297;" title="">
+      <div id="indexLayer14_Container" style="width:960px;position:relative;margin-left:auto;margin-right:auto;text-align:left;">
+      </div>
+   </div>
+   <div id="indexLayer15" style="position:absolute;text-align:center;left:0%;top:1890px;width:100%;height:20px;z-index:298;" title="">
+      <div id="indexLayer15_Container" style="width:960px;position:relative;margin-left:auto;margin-right:auto;text-align:left;">
+      </div>
+   </div>
+   <div id="indexLayer20" style="position:absolute;text-align:center;left:0%;top:155px;width:100%;height:25px;z-index:299;" title="">
+      <div id="indexLayer20_Container" style="width:960px;position:relative;margin-left:auto;margin-right:auto;text-align:left;">
+      </div>
+   </div>
+   <div id="indexLayer21" style="position:absolute;text-align:center;left:0%;top:2570px;width:100%;height:170px;z-index:300;" title="">
+      <div id="indexLayer21_Container" style="width:960px;position:relative;margin-left:auto;margin-right:auto;text-align:left;">
+         <div id="wb_indexText31" style="position:absolute;left:5px;top:20px;width:60px;height:139px;z-index:154;text-align:left;">
+            <div style="position:absolute;left:0px;top:0px;width:60px;height:137px;"><span class="PT_Sans-80-b-n">8</span></div>
+         </div>
+         <div id="wb_indexText34" style="position:absolute;left:68px;top:102px;width:101px;height:31px;text-align:center;z-index:155;">
+            <div style="position:absolute;left:0px;top:0px;width:101px;height:31px;"><span class="PT_Sans-18-b-n">работы</span></div>
+         </div>
+         <div id="wb_indexText33" style="position:absolute;left:68px;top:54px;width:91px;height:48px;text-align:center;z-index:156;">
+            <div style="position:absolute;left:0px;top:0px;width:91px;height:48px;"><span class="PT_Sans-28-b-n">Лет</span></div>
+         </div>
+         <div id="wb_indexLine10" style="position:absolute;left:212px;top:12px;width:0px;height:134px;z-index:157;">
+            <img src="images/img0017.png" id="indexLine10" alt=""></div>
+         <div id="wb_indexText29" style="position:absolute;left:460px;top:50px;width:128px;height:48px;text-align:center;z-index:158;">
+            <div style="position:absolute;left:0px;top:0px;width:128px;height:48px;"><span class="PT_Sans-28-b-n">Камер</span></div>
+         </div>
+         <div id="wb_indexText28" style="position:absolute;left:450px;top:100px;width:146px;height:31px;text-align:center;z-index:159;">
+            <div style="position:absolute;left:0px;top:0px;width:146px;height:31px;"><span class="PT_Sans-18-b-n">установлено</span></div>
+         </div>
+         <div id="wb_indexLine11" style="position:absolute;left:596px;top:12px;width:0px;height:134px;z-index:160;">
+            <img src="images/img0018.png" id="indexLine11" alt=""></div>
+         <div id="wb_indexText35" style="position:absolute;left:808px;top:102px;width:120px;height:31px;text-align:center;z-index:161;">
+            <div style="position:absolute;left:0px;top:0px;width:120px;height:31px;"><span class="PT_Sans-18-b-n">довольны</span></div>
+         </div>
+         <div id="wb_indexText30" style="position:absolute;left:610px;top:20px;width:182px;height:139px;z-index:162;text-align:left;">
+            <div style="position:absolute;left:0px;top:0px;width:182px;height:137px;"><span class="PT_Sans-80-b-n">298</span></div>
+         </div>
+         <div id="wb_indexText27" style="position:absolute;left:220px;top:20px;width:260px;height:139px;z-index:163;text-align:left;">
+            <div style="position:absolute;left:0px;top:0px;width:260px;height:137px;"><span class="PT_Sans-80-b-n">1840</span></div>
+         </div>
+         <div id="wb_indexText32" style="position:absolute;left:780px;top:50px;width:172px;height:48px;text-align:center;z-index:164;">
+            <div style="position:absolute;left:0px;top:0px;width:172px;height:48px;"><span class="PT_Sans-28-b-n">Клиентов</span></div>
+         </div>
+      </div>
+   </div>
+   <div id="indexLayer8" style="position:absolute;text-align:center;left:0%;top:2550px;width:100%;height:20px;z-index:301;" title="">
+      <div id="indexLayer8_Container" style="width:960px;position:relative;margin-left:auto;margin-right:auto;text-align:left;">
+      </div>
+   </div>
+   <div id="indexLayer22" style="position:absolute;text-align:center;left:0%;top:2740px;width:100%;height:20px;z-index:302;" title="">
+      <div id="indexLayer22_Container" style="width:960px;position:relative;margin-left:auto;margin-right:auto;text-align:left;">
+      </div>
+   </div>
+   <div id="indexLayer9" style="position:absolute;text-align:center;left:0%;top:3120px;width:100%;height:20px;z-index:303;" title="">
+      <div id="indexLayer9_Container" style="width:960px;position:relative;margin-left:auto;margin-right:auto;text-align:left;">
+      </div>
+   </div>
+   <div id="indexLayer24" style="position:absolute;text-align:center;left:0%;top:4230px;width:100%;height:20px;z-index:304;" title="">
+      <div id="indexLayer24_Container" style="width:960px;position:relative;margin-left:auto;margin-right:auto;text-align:left;">
+      </div>
+   </div>
+   <div id="indexLayer10" style="position:absolute;text-align:center;left:0%;top:4810px;width:100%;height:20px;z-index:305;" title="">
+      <div id="indexLayer10_Container" style="width:960px;position:relative;margin-left:auto;margin-right:auto;text-align:left;">
+      </div>
+   </div>
+   <div id="indexLayer25" style="position:absolute;text-align:center;left:0%;top:5350px;width:100%;height:20px;z-index:306;" title="">
+      <div id="indexLayer25_Container" style="width:960px;position:relative;margin-left:auto;margin-right:auto;text-align:left;">
+      </div>
+   </div>
+   <div id="indexLayer27" style="position:absolute;text-align:left;left:0%;top:7490px;width:98%;height:560px;z-index:307;" title="">
+      <div id="indexHtml5" style="position:absolute;left:10px;top:0px;width:930px;height:550px;z-index:179">
+<script charset="utf-8" src="https://api-maps.yandex.ru/services/constructor/1.0/js/?sid=n5hJqKmdxD4jhxbubat0kixaWFFFvQ-z&width=100%&height=550"></script>
+      </div>
+      <div id="indexLayer28" style="position:absolute;text-align:left;left:20px;top:40px;width:350px;height:390px;z-index:180;" title="">
+         <div id="wb_indexImage26" style="position:absolute;left:10px;top:10px;width:33px;height:50px;z-index:168;">
+            <img src="images/videonabludenie_grodno_1.png" id="indexImage26" alt="" style="width:33px;height:50px;"></div>
+         <div id="wb_indexImage27" style="position:absolute;left:10px;top:70px;width:33px;height:50px;z-index:169;">
+            <img src="images/videonabludenie_minsk.png" id="indexImage27" alt="" style="width:33px;height:50px;"></div>
+         <div id="wb_indexImage28" style="position:absolute;left:10px;top:130px;width:33px;height:50px;z-index:170;">
+            <img src="images/videonabludenie_vitebsk.png" id="indexImage28" alt="" style="width:33px;height:50px;"></div>
+         <div id="wb_indexImage29" style="position:absolute;left:10px;top:190px;width:33px;height:50px;z-index:171;">
+            <img src="images/videonabludenie_GOMEL.png" id="indexImage29" alt="" style="width:33px;height:50px;"></div>
+         <div id="wb_indexImage30" style="position:absolute;left:10px;top:250px;width:33px;height:50px;z-index:172;">
+            <img src="images/videonabludenie_MOGILEV.png" id="indexImage30" alt="" style="width:33px;height:50px;"></div>
+         <div id="wb_indexText57" style="position:absolute;left:10px;top:320px;width:335px;height:60px;z-index:173;text-align:left;">
+            <div style="position:absolute;left:0px;top:0px;width:335px;height:20px;"><span class="PT_Sans-12-w-b">Помимо областных городов, мы </span></div>
+            <div style="position:absolute;left:0px;top:20px;width:335px;height:20px;"><span class="PT_Sans-12-w-b">устанавливаем камеры видеонаблюдения в </span></div>
+            <div style="position:absolute;left:0px;top:40px;width:335px;height:20px;"><span class="PT_Sans-12-w-b">любом другом городе Беларуси</span></div>
+         </div>
+         <div id="wb_indexText52" style="position:absolute;left:50px;top:30px;width:290px;height:24px;z-index:174;text-align:left;">
+            <div style="position:absolute;left:0px;top:0px;width:290px;height:23px;"><h4>Видеонаблюдение в ГРОДНО</h4></div>
+         </div>
+         <div id="wb_indexText53" style="position:absolute;left:50px;top:90px;width:290px;height:24px;z-index:175;text-align:left;">
+            <div style="position:absolute;left:0px;top:0px;width:290px;height:23px;"><h4>Видеонаблюдения в МИНСКЕ</h4></div>
+         </div>
+         <div id="wb_indexText54" style="position:absolute;left:50px;top:150px;width:290px;height:24px;z-index:176;text-align:left;">
+            <div style="position:absolute;left:0px;top:0px;width:290px;height:23px;"><h4>Видеонаблюдения в ВИТЕБСКЕ</h4></div>
+         </div>
+         <div id="wb_indexText55" style="position:absolute;left:50px;top:210px;width:290px;height:24px;z-index:177;text-align:left;">
+            <div style="position:absolute;left:0px;top:0px;width:290px;height:23px;"><h4>Видеонаблюдения в ГОМЕЛЕ</h4></div>
+         </div>
+         <div id="wb_indexText56" style="position:absolute;left:50px;top:270px;width:290px;height:24px;z-index:178;text-align:left;">
+            <div style="position:absolute;left:0px;top:0px;width:290px;height:23px;"><h4>Видеонаблюдения в МОГИЛЕВЕ</h4></div>
+         </div>
+      </div>
+   </div>
+   <div id="indexLayer30" style="position:absolute;text-align:center;left:0%;top:5780px;width:100%;height:500px;z-index:308;" title="">
+      <div id="indexLayer30_Container" style="width:960px;position:relative;margin-left:auto;margin-right:auto;text-align:left;">
+         <div id="wb_indexPhotoGallery5" style="position:absolute;left:220px;top:140px;width:510px;height:330px;z-index:192;">
+            <table id="indexPhotoGallery5">
+               <tr>
+                  <td class="figure" style="width:98px;height:79px">
+                     <a href="images/zhiloi_dom_1_light.jpg" data-rel="indexPhotoGallery5"><img alt="" title="" src="images/zhiloi_dom_1_light.jpg" style="width:59px;height:79px;"></a>
+                  </td>
+                  <td class="figure" style="width:98px;height:79px">
+                     <a href="images/zhiloi_dom_2_light.jpg" data-rel="indexPhotoGallery5"><img alt="" title="" src="images/zhiloi_dom_2_light.jpg" style="width:59px;height:79px;"></a>
+                  </td>
+                  <td class="figure" style="width:98px;height:79px">
+                     <a href="images/zhiloi_dom_3_light.jpg" data-rel="indexPhotoGallery5"><img alt="" title="" src="images/zhiloi_dom_3_light.jpg" style="width:59px;height:79px;"></a>
+                  </td>
+                  <td class="figure" style="width:98px;height:79px">
+                     <a href="images/zhiloi_dom_4_light.jpg" data-rel="indexPhotoGallery5"><img alt="" title="" src="images/zhiloi_dom_4_light.jpg" style="width:59px;height:79px;"></a>
+                  </td>
+                  <td class="figure" style="width:98px;height:79px">
+                     <a href="images/moyka_1_light.jpg" data-rel="indexPhotoGallery5"><img alt="" title="" src="images/moyka_1_light.jpg" style="width:59px;height:79px;"></a>
+                  </td>
+               </tr>
+               <tr>
+                  <td class="figure" style="width:98px;height:79px">
+                     <a href="images/moyka_2_light.jpg" data-rel="indexPhotoGallery5"><img alt="" title="" src="images/moyka_2_light.jpg" style="width:59px;height:79px;"></a>
+                  </td>
+                  <td class="figure" style="width:98px;height:79px">
+                     <a href="images/moyka_3_light.jpg" data-rel="indexPhotoGallery5"><img alt="" title="" src="images/moyka_3_light.jpg" style="width:59px;height:79px;"></a>
+                  </td>
+                  <td class="figure" style="width:98px;height:79px">
+                     <a href="images/moyka_4_light.jpg" data-rel="indexPhotoGallery5"><img alt="" title="" src="images/moyka_4_light.jpg" style="width:98px;height:73px;"></a>
+                  </td>
+                  <td class="figure" style="width:98px;height:79px">
+                     <a href="images/moyka_5_light.jpg" data-rel="indexPhotoGallery5"><img alt="" title="" src="images/moyka_5_light.jpg" style="width:58px;height:79px;"></a>
+                  </td>
+                  <td class="figure" style="width:98px;height:79px">
+                     <a href="images/moyka_6_light.jpg" data-rel="indexPhotoGallery5"><img alt="" title="" src="images/moyka_6_light.jpg" style="width:58px;height:79px;"></a>
+                  </td>
+               </tr>
+               <tr>
+                  <td class="figure" style="width:98px;height:79px">
+                     <a href="images/moyka_7_light.jpg" data-rel="indexPhotoGallery5"><img alt="" title="" src="images/moyka_7_light.jpg" style="width:58px;height:79px;"></a>
+                  </td>
+                  <td class="figure" style="width:98px;height:79px">
+                     <a href="images/moyka_8_light.jpg" data-rel="indexPhotoGallery5"><img alt="" title="" src="images/moyka_8_light.jpg" style="width:58px;height:79px;"></a>
+                  </td>
+                  <td class="figure" style="width:98px;height:79px">
+                     <a href="images/kv_dom_1_light.jpg" data-rel="indexPhotoGallery5"><img alt="" title="" src="images/kv_dom_1_light.jpg" style="width:98px;height:73px;"></a>
+                  </td>
+                  <td class="figure" style="width:98px;height:79px">
+                     <a href="images/kv_dom_2_light.jpg" data-rel="indexPhotoGallery5"><img alt="" title="" src="images/kv_dom_2_light.jpg" style="width:98px;height:73px;"></a>
+                  </td>
+                  <td class="figure" style="width:98px;height:79px">
+                     <a href="images/kv_dom_3_light.jpg" data-rel="indexPhotoGallery5"><img alt="" title="" src="images/kv_dom_3_light.jpg" style="width:98px;height:73px;"></a>
+                  </td>
+               </tr>
+               <tr>
+                  <td class="figure" style="width:98px;height:79px">
+                     <a href="images/kv_dom_4_light.jpg" data-rel="indexPhotoGallery5"><img alt="" title="" src="images/kv_dom_4_light.jpg" style="width:98px;height:73px;"></a>
+                  </td>
+                  <td class="figure" style="width:98px;height:79px">
+                     <a href="images/chastni_dom_1_light.jpg" data-rel="indexPhotoGallery5"><img alt="" title="" src="images/chastni_dom_1_light.jpg" style="width:59px;height:79px;"></a>
+                  </td>
+                  <td class="figure" style="width:98px;height:79px">
+                     <a href="images/chastni_dom_2_light.jpg" data-rel="indexPhotoGallery5"><img alt="" title="" src="images/chastni_dom_2_light.jpg" style="width:59px;height:79px;"></a>
+                  </td>
+                  <td class="figure" style="width:98px;height:79px">
+                     <a href="images/chastni_dom_3_light.jpg" data-rel="indexPhotoGallery5"><img alt="" title="" src="images/chastni_dom_3_light.jpg" style="width:59px;height:79px;"></a>
+                  </td>
+                  <td class="figure" style="width:98px;height:79px">
+                     <a href="images/chastni_dom_4_light.jpg" data-rel="indexPhotoGallery5"><img alt="" title="" src="images/chastni_dom_4_light.jpg" style="width:59px;height:79px;"></a>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div id="wb_indexText58" style="position:absolute;left:240px;top:75px;width:480px;height:42px;text-align:center;z-index:193;">
+            <div style="position:absolute;left:0px;top:0px;width:480px;height:42px;"><span class="PT_Sans-24-w-n">Установленное видонаблюдение</span></div>
+         </div>
+         <div id="wb_indexLine39" style="position:absolute;left:726px;top:86px;width:60px;height:0px;z-index:194;">
+            <img src="images/img0102.png" id="indexLine39" alt=""></div>
+         <div id="wb_indexLine40" style="position:absolute;left:156px;top:86px;width:60px;height:0px;z-index:195;">
+            <img src="images/img0103.png" id="indexLine40" alt=""></div>
+         <div id="wb_indexLine45" style="position:absolute;left:186px;top:96px;width:30px;height:0px;z-index:196;">
+            <img src="images/img0104.png" id="indexLine45" alt=""></div>
+         <div id="wb_indexLine46" style="position:absolute;left:726px;top:96px;width:30px;height:0px;z-index:197;">
+            <img src="images/img0105.png" id="indexLine46" alt=""></div>
+         <div id="wb_indexImage31" style="position:absolute;left:0px;top:130px;width:210px;height:60px;z-index:198;">
+            <img src="images/ramka_2.png" id="indexImage31" alt="" style="width:210px;height:60px;"></div>
+         <div id="wb_indexImage32" style="position:absolute;left:0px;top:200px;width:210px;height:60px;z-index:199;">
+            <img src="images/ramka_2.png" id="indexImage32" alt="" style="width:210px;height:60px;"></div>
+         <div id="wb_indexImage33" style="position:absolute;left:0px;top:270px;width:210px;height:60px;z-index:200;">
+            <img src="images/ramka_2.png" id="indexImage33" alt="" style="width:210px;height:60px;"></div>
+         <div id="wb_indexImage34" style="position:absolute;left:0px;top:340px;width:210px;height:60px;z-index:201;">
+            <img src="images/ramka_2.png" id="indexImage34" alt="" style="width:210px;height:60px;"></div>
+         <div id="wb_indexImage42" style="position:absolute;left:0px;top:410px;width:210px;height:60px;z-index:202;">
+            <img src="images/ramka_2.png" id="indexImage42" alt="" style="width:210px;height:60px;"></div>
+         <div id="wb_indexText59" style="position:absolute;left:20px;top:135px;width:170px;height:48px;text-align:center;z-index:203;">
+            <div style="position:absolute;left:0px;top:0px;width:170px;height:23px;"><h4>Видеонаблюдение </h4></div>
+            <div style="position:absolute;left:0px;top:24px;width:170px;height:23px;"><h4>для дома</h4></div>
+         </div>
+         <div id="wb_indexText81" style="position:absolute;left:20px;top:205px;width:170px;height:48px;text-align:center;z-index:204;">
+            <div style="position:absolute;left:0px;top:0px;width:170px;height:23px;"><h4>Видеонаблюдение </h4></div>
+            <div style="position:absolute;left:0px;top:24px;width:170px;height:23px;"><h4>для производства</h4></div>
+         </div>
+         <div id="wb_indexText83" style="position:absolute;left:20px;top:275px;width:170px;height:48px;text-align:center;z-index:205;">
+            <div style="position:absolute;left:0px;top:0px;width:170px;height:23px;"><h4>Видеонаблюдение </h4></div>
+            <div style="position:absolute;left:0px;top:24px;width:170px;height:23px;"><h4>для офиса</h4></div>
+         </div>
+         <div id="wb_indexText85" style="position:absolute;left:20px;top:345px;width:170px;height:48px;text-align:center;z-index:206;">
+            <div style="position:absolute;left:0px;top:0px;width:170px;height:23px;"><h4>Видеонаблюдение</h4></div>
+            <div style="position:absolute;left:0px;top:24px;width:170px;height:23px;"><h4>для мойки</h4></div>
+         </div>
+         <div id="wb_indexText88" style="position:absolute;left:20px;top:415px;width:170px;height:48px;text-align:center;z-index:207;">
+            <div style="position:absolute;left:0px;top:0px;width:170px;height:23px;"><h4>Видеонаблюдение</h4></div>
+            <div style="position:absolute;left:0px;top:24px;width:170px;height:23px;"><h4>для жилого дома</h4></div>
+         </div>
+         <div id="wb_indexImage43" style="position:absolute;left:740px;top:130px;width:210px;height:60px;z-index:208;">
+            <img src="images/ramka_2.png" id="indexImage43" alt="" style="width:210px;height:60px;"></div>
+         <div id="wb_indexText86" style="position:absolute;left:760px;top:140px;width:175px;height:40px;text-align:center;z-index:209;">
+            <div style="position:absolute;left:0px;top:0px;width:175px;height:20px;"><h5>Видеонаблюдение</h5></div>
+            <div style="position:absolute;left:0px;top:20px;width:175px;height:20px;"><h5>для загородного дома</h5></div>
+         </div>
+         <div id="wb_indexImage45" style="position:absolute;left:740px;top:200px;width:210px;height:60px;z-index:210;">
+            <img src="images/ramka_2.png" id="indexImage45" alt="" style="width:210px;height:60px;"></div>
+         <div id="wb_indexText79" style="position:absolute;left:760px;top:205px;width:170px;height:48px;text-align:center;z-index:211;">
+            <div style="position:absolute;left:0px;top:0px;width:170px;height:23px;"><h4>Видеонаблюдение</h4></div>
+            <div style="position:absolute;left:0px;top:24px;width:170px;height:23px;"><h4>для магазина</h4></div>
+         </div>
+         <div id="wb_indexImage46" style="position:absolute;left:740px;top:270px;width:210px;height:60px;z-index:212;">
+            <img src="images/ramka_2.png" id="indexImage46" alt="" style="width:210px;height:60px;"></div>
+         <div id="wb_indexText84" style="position:absolute;left:760px;top:275px;width:170px;height:48px;text-align:center;z-index:213;">
+            <div style="position:absolute;left:0px;top:0px;width:170px;height:23px;"><h4>Видеонаблюдение</h4></div>
+            <div style="position:absolute;left:0px;top:24px;width:170px;height:23px;"><h4>для квартиры</h4></div>
+         </div>
+         <div id="wb_indexImage47" style="position:absolute;left:740px;top:340px;width:210px;height:60px;z-index:214;">
+            <img src="images/ramka_2.png" id="indexImage47" alt="" style="width:210px;height:60px;"></div>
+         <div id="wb_indexText87" style="position:absolute;left:760px;top:345px;width:170px;height:48px;text-align:center;z-index:215;">
+            <div style="position:absolute;left:0px;top:0px;width:170px;height:23px;"><h4>Видеонаблюдение</h4></div>
+            <div style="position:absolute;left:0px;top:24px;width:170px;height:23px;"><h4>для склада</h4></div>
+         </div>
+         <div id="wb_indexImage48" style="position:absolute;left:740px;top:410px;width:210px;height:60px;z-index:216;">
+            <img src="images/ramka_2.png" id="indexImage48" alt="" style="width:210px;height:60px;"></div>
+         <div id="wb_indexText89" style="position:absolute;left:760px;top:415px;width:170px;height:48px;text-align:center;z-index:217;">
+            <div style="position:absolute;left:0px;top:0px;width:170px;height:23px;"><h4>Видеонаблюдение</h4></div>
+            <div style="position:absolute;left:0px;top:24px;width:170px;height:23px;"><h4>для аптеки</h4></div>
+         </div>
+      </div>
+   </div>
+   <div id="indexLayer31" style="position:absolute;text-align:center;left:0%;top:5780px;width:100%;height:20px;z-index:309;" title="">
+      <div id="indexLayer31_Container" style="width:960px;position:relative;margin-left:auto;margin-right:auto;text-align:left;">
+      </div>
+   </div>
+   <div id="indexLayer32" style="position:absolute;text-align:center;left:0%;top:6260px;width:100%;height:20px;z-index:310;" title="">
+      <div id="indexLayer32_Container" style="width:960px;position:relative;margin-left:auto;margin-right:auto;text-align:left;">
+      </div>
+   </div>
+   <div id="indexLayer13" style="position:absolute;text-align:center;left:0%;top:6920px;width:100%;height:28px;z-index:311;" title="">
+      <div id="indexLayer13_Container" style="width:960px;position:relative;margin-left:auto;margin-right:auto;text-align:left;">
+      </div>
+   </div>
+   <div id="indexLayer26" style="position:absolute;text-align:center;left:0%;top:7350px;width:100%;height:20px;z-index:312;" title="">
+      <div id="indexLayer26_Container" style="width:960px;position:relative;margin-left:auto;margin-right:auto;text-align:left;">
+      </div>
+   </div>
+<script src="//cdn.callbackhunter.com/cbh.js?hunter_code=b4edbda213721f0fa84ccbccbc9c9366" charset="UTF-8"></script></body>
+</html>
